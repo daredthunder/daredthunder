@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daredthunder
-- 👀 I’m interested in financial quantitiative models.
+- 👀 I’m interested in financial quantitative models.
 - 🌱 I’m currently learning finanace & computer science.
 - 💞️ I’m looking to collaborate on any algorithm for trading.
 - 📫 How to reach me: thrivingmindset.team@gmail.com
